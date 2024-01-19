@@ -1,0 +1,50 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/davi.png",
+            "title": "Davinci Medical Group",
+            "description": "HTML, CSS, BOOTSTRAP, JAVASCRIPT,PHP",
+            "url": "http://davincimgkenya.com"
+        },
+    
+        {
+            "cover": "/portfolio/1/feli.png",
+            "title": "ST. FELISTAS COMMUNITY ",
+            "description": "HTML, CSS, JAVASCRIPT, PHP",
+            "url": "https://stfelistascommunity.com/"
+        },
+        {
+            "cover": "/portfolio/1/3rdra.png",
+            "title": "3rd3ar",
+            "description": "HTML, CSS, JAVASCRIPT, PHP",
+            "url": "https://3rd3ar.com/"
+        }
+        ,
+        {
+            "cover": "/portfolio/1/port.png",
+            "title": "PERSONAL PORTFOLIO",
+            "description": "REACTJS, SCSS, FIREBASE, NEXTJS",
+            "url": ""
+        }
+        ,
+        {
+            "cover": "/portfolio/1/sikika.png",
+            "title": "SIKIKA MARKETPLACE",
+            "description": "REACTJS, SCSS, MONGOdb, NEXTJS",
+            "url": "https://market.sikikaroadsafety.com/"
+        }
+        ,
+        {
+            "cover": "/portfolio/1/tsc.png",
+            "title": "TEACHER SERVICE COMMISSION",
+            "description": "REACTJS, SCSS, MONGOdb, PHP",
+            "url": "https://www.tsc.go.ke/"
+        },
+        {
+            "cover": "/portfolio/1/dash.png",
+            "title": "NEXTjs DASHBOARD",
+            "description": "REACTJS, SCSS, MONGOdb, NEXTJS",
+            "url": "https://next-admin-dash.vercel.app/playground"
+        }
+    ]
+}
